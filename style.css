@@ -18,3 +18,12 @@ html {
     height: auto;
     width: 400px;
 }
+
+.soup { 
+    align-content: ;
+}
+
+.recipes {
+    display: flex;
+    justify-content: space-around;
+}
