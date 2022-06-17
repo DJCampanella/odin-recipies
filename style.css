@@ -15,15 +15,17 @@ html {
 }
 
 .image { 
-    height: auto;
-    width: 400px;
+    height: 400px;
+    width: auto;
 }
 
 .soup { 
     align-content: ;
 }
 
-.recipes {
+.recipes,
+.links {
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
