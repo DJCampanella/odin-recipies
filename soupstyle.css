@@ -1,23 +1,24 @@
-html { 
-    
+html 
+{   
     background: #f5f2ee; 
     color: #364857;
     font-family: Batang;
 }
 
-.title {
+.title 
+{
     font-size: 40px;
     text-align: center;
 }
 
-.image { 
+.image
+ 
+{ 
     height: 400px;
     width: auto;
 }
 
-.images
-
- {
+.photos{
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -25,4 +26,4 @@ html {
     background-size: 100%;
     background-clip: padding-box;
     padding: .25in;
- }
+}
