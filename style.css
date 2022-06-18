@@ -23,6 +23,10 @@ html {
     align-content: ;
 }
 
+.image
+ {
+     border-radius: 10px;
+}
 
 .recipes,
 .links
@@ -37,9 +41,27 @@ html {
     padding: .25in;
 }
 
+#links {
+    text-decoration: none;
+    background-color: #cdc4ba;
+    text-align: center;
+    color: #364857;
+    display: block;
+    padding: 4px 3px;
+    border-radius: 8px;
+}
 
 
+/*visited link*/ 
+a:visited {
+    color: #805b32;
+    text-decoration-line:none
+}
 
+/*hover link*/
 
-
+a:hover {
+    color: #b37f46;
+    text-decoration: none;
+}
 
