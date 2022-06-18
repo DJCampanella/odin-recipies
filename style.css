@@ -55,12 +55,24 @@ html {
 /*visited link*/ 
 a:visited {
     color: #805b32;
-    text-decoration-line:none
+    text-decoration-line:none;
+    text-decoration: none
 }
 
 /*hover link*/
 
 a:hover {
+    color: #b37f46;
+    text-decoration: none;
+}
+
+a:active 
+{
+    color: #b37f46;
+    text-decoration: none;
+}
+
+a:link {
     color: #b37f46;
     text-decoration: none;
 }
