@@ -1,0 +1,28 @@
+html { 
+    
+    background: #f5f2ee; 
+    color: #364857;
+    font-family: Batang;
+}
+
+.title {
+    font-size: 40px;
+    text-align: center;
+}
+
+.image { 
+    height: 400px;
+    width: auto;
+}
+
+.images
+
+ {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-image: url(images/linen.jpg);
+    background-size: 100%;
+    background-clip: padding-box;
+    padding: .25in;
+ }
