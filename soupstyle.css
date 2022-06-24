@@ -30,21 +30,40 @@ html
 }
 
 .times {
+    background-color: #b6c5d1;
     display: block;
-    padding: 2px;
+    padding-left:4px;
+    padding-right: 4px;
     border-style: solid;
     border-color: #4f5a62;
+    border-radius: 30px 30px 30px 30px;
+    margin-left: 2in;
+    margin-right: 2in;
 
 }
 
 .times,
 .description {
     text-align: center;
-
 }
 
+ul li {
+    list-style-position: inside;
+    text-align: left;
+    margin-left: 2in;
+    margin-right: 2in;  
+}
 
+h3,
+.garnish {
+  text-align: left;
+  margin-left: 2in;
+  margin-right: 2in;
+}
 
-
-
+.instructions {
+    text-align: left;
+    margin-left: 2in;
+    margin-right: 2in;
+}
 
