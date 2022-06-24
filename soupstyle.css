@@ -16,6 +16,7 @@ html
 { 
     height: 400px;
     width: auto;
+    border-radius: 30px 30px 30px 30px;
 }
 
 .photos{
@@ -27,3 +28,23 @@ html
     background-clip: padding-box;
     padding: .25in;
 }
+
+.times {
+    display: block;
+    padding: 2px;
+    border-style: solid;
+    border-color: #4f5a62;
+
+}
+
+.times,
+.description {
+    text-align: center;
+
+}
+
+
+
+
+
+
